@@ -1,0 +1,72 @@
+
+
+body{
+	padding-left: 0;
+	padding-right: 0;
+	
+}
+
+.formulario-dao{
+    background: #fff;
+    padding-top: 5vh;
+}
+.carousel{
+	height: 92vh;
+}
+.contenido{
+	
+	background: #EAFBFA;
+
+	padding: 5vh 5vh 5vh 5vh;
+	/*border-right: 1px solid #000;*/
+
+}
+.contenido  p {
+	padding-top: 5vh;
+	font-family: 'Work Sans', sans-serif;
+	
+}
+
+.contenido  img {
+	height: 30vh;
+	padding-left: 2vh;
+	
+}
+
+
+@media only screen and (max-width : 768px) {
+	.animated {
+		
+		-o-transition-property: none !important;
+		-moz-transition-property: none !important;
+		-ms-transition-property: none !important;
+		-webkit-transition-property: none !important;
+		transition-property: none !important;
+	
+		-o-transform: none !important;
+		-moz-transform: none !important;
+		-ms-transform: none !important;
+		-webkit-transform: none !important;
+		transform: none !important;
+		
+		-webkit-animation: none !important;
+		-moz-animation: none !important;
+		-o-animation: none !important;
+		-ms-animation: none !important;
+		animation: none !important;
+	}
+}
+
+.contenido2{
+	
+	background: #EAFBFA;
+
+	padding: 5vh 5vh 5vh 5vh;
+	/*border-right: 1px solid #000;*/
+
+}
+.contenido2  p {
+	padding-top: 5vh;
+	font-family: 'Work Sans', sans-serif;
+	
+}
